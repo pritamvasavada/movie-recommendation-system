@@ -3,3 +3,12 @@ streamlit
 
 ### local packages -
 -e . 
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+pickle-mixin
+nltk
+beautifulsoup4
+lxml
